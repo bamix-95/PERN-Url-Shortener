@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-young-serif);
+
+  --color-primary-50: oklch(97% 0.05 130);
+  --color-primary-100: oklch(94% 0.1 130);
+  --color-primary-200: oklch(89% 0.15 130);
+  --color-primary-300: oklch(82% 0.2 130);
+  --color-primary-400: oklch(74% 0.22 130);
+  --color-primary-500: oklch(65% 0.22 130);
+  --color-primary-600: oklch(55% 0.2 130);
+  --color-primary-700: oklch(45% 0.17 130);
+  --color-primary-800: oklch(36% 0.13 130);
+  --color-primary-900: oklch(28% 0.1 130);
+  --color-primary-950: oklch(18% 0.07 130);
+}
